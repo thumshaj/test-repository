@@ -18,5 +18,12 @@ git ls-remote --get-url
 
 git push -u origin main
 
+#Branches
+git checkout -b feature
+
+git checkout master
+
+
+
 
 
